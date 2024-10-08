@@ -43,8 +43,3 @@ This project explores and predicts diabetes in the Pima Indian population using 
 - Python 3.9
 - Jupyter Notebook
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-repo-url.git
-cd your-repo-url
