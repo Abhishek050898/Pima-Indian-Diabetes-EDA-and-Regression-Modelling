@@ -1,4 +1,4 @@
-# Pima Indian Diabetes Prediction: Exploratory Data Analysis and Regression Modeling
+# Pima Indian Diabetes Prediction: Exploratory Data Analysis and Regression Modeling - with MLFlow and Docker
 
 ## Project Overview
 This project explores and predicts diabetes in the Pima Indian population using the Pima Diabetes Dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. The focus is on conducting Exploratory Data Analysis (EDA), identifying key patterns, handling data quality issues, and applying machine learning models to predict the likelihood of diabetes.
