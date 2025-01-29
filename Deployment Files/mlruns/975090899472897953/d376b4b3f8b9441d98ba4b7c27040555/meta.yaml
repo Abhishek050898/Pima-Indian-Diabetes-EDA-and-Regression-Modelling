@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/abhishek/MANCHESTER/Diabetes%20Prediction%20Deployment/mlruns/975090899472897953/d376b4b3f8b9441d98ba4b7c27040555/artifacts
+end_time: 1738014680089
+entry_point_name: ''
+experiment_id: '975090899472897953'
+lifecycle_stage: active
+run_id: d376b4b3f8b9441d98ba4b7c27040555
+run_name: Support Vector Machine
+run_uuid: d376b4b3f8b9441d98ba4b7c27040555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738014667584
+status: 3
+tags: []
+user_id: abhis

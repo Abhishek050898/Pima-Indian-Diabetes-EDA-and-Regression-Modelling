@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/abhishek/MANCHESTER/Diabetes%20Prediction%20Deployment/mlruns/975090899472897953/c4a18e7015ed4e98beea8841ff93c500/artifacts
+end_time: 1738014658226
+entry_point_name: ''
+experiment_id: '975090899472897953'
+lifecycle_stage: active
+run_id: c4a18e7015ed4e98beea8841ff93c500
+run_name: LogisticRegression
+run_uuid: c4a18e7015ed4e98beea8841ff93c500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738014651167
+status: 3
+tags: []
+user_id: abhis

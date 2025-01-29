@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/abhishek/MANCHESTER/Diabetes%20Prediction%20Deployment/mlruns/975090899472897953/1fab0edc1f5e4ce7a7c4584e86e3bb91/artifacts
+end_time: 1738014662901
+entry_point_name: ''
+experiment_id: '975090899472897953'
+lifecycle_stage: active
+run_id: 1fab0edc1f5e4ce7a7c4584e86e3bb91
+run_name: Random Forest
+run_uuid: 1fab0edc1f5e4ce7a7c4584e86e3bb91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738014658236
+status: 3
+tags: []
+user_id: abhis

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/abhishek/MANCHESTER/Diabetes%20Prediction%20Deployment/mlruns/975090899472897953/e9c4cd7b33424d1da7497e8d1278403b/artifacts
+end_time: 1738014667574
+entry_point_name: ''
+experiment_id: '975090899472897953'
+lifecycle_stage: active
+run_id: e9c4cd7b33424d1da7497e8d1278403b
+run_name: Gradiest Boost
+run_uuid: e9c4cd7b33424d1da7497e8d1278403b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738014662911
+status: 3
+tags: []
+user_id: abhis
